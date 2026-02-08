@@ -4,7 +4,7 @@
   vars:
    COURSE: "DevOps with AWS"
    DURATION: "140HRS"
-   TRSINER: "Siva"
+   TRAINER: "Siva"
   tasks:
   - name: print variables
     ansible.builtin.debug:
